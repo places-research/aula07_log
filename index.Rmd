@@ -254,6 +254,30 @@ knitr::include_graphics("./img/diesel.png")
 ```
 
 ---
+### Rodovias
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/mapa_rodo.jpg")
+```
+
+
+---
+### Ferrovias
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/mapa_ferro.png")
+```
+
+
+---
+### Aquaviário - Águas interiores
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/hidro.png")
+```
+
+---
+
 
 ### Qual o nosso problema?
 Demanda x oferta?
@@ -314,12 +338,32 @@ knitr::include_graphics("./img/ferrovias_mundo.png")
 ```
 
 ---
+
 ### Qual o nosso problema?
 Matriz modal?
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./img/conteiner.png")
 ```
+
+---
+
+### Qual o nosso problema?
+Custo da produção de transportes
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/artigoNovembro2014_Figura05.png")
+```
+
+---
+
+### Qual o nosso problema?
+Eficiência da produção de transportes
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/efici.png")
+```
+
 
 ---
 
@@ -356,6 +400,8 @@ knitr::include_graphics("./img/calamidade.png")
 
 
 ---
+### Como resolver?
+
 
 - Fim da política de preços da Petrobras para os combustíveis
 - Cumprimento do piso mínimo de frete
