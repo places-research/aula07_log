@@ -125,6 +125,14 @@ class: center, middle
 
 class: center, middle
 
+## Logística Urbana
+[Livro](https://podeditora.com.br/wp-content/uploads/2019/04/Livro-A-logistca-urbana-no-Brasil-site.pdf)
+
+
+---
+
+class: center, middle
+
 ## Transportes
 
 ---
