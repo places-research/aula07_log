@@ -1,9 +1,9 @@
 ---
 title: "Logística"
-subtitle: "Encontros Síncronos 05 e 06"
+subtitle: "Encontros Síncronos 08 e 09"
 author: 
   - <br></br>Renata Oliveira
-date: '30/06/2021 e '
+date: '21/07/2021 e 28/07/2021'
 output:
   xaringan::moon_reader:
     lib_dir: libs
