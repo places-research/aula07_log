@@ -354,7 +354,15 @@ Privatizar a Petrobras?
 knitr::include_graphics("./img/calamidade.png")
 ```
 
+
 ---
+
+- Fim da política de preços da Petrobras para os combustíveis
+- Cumprimento do piso mínimo de frete
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/greve01.png")
+```
 
 ---
 
